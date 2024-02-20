@@ -1,0 +1,1 @@
+This file includes all the SQL exercises during the course
